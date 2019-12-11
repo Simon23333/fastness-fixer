@@ -26,3 +26,8 @@ h2 {
 .logo {
   width: 64px;
 }
+
+.banner-content {
+  color: #fff;
+  text-shadow: .1em .1em .3em rgba(0, 0, 0, .6);
+}
